@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "3ddeca9a-c6fd-a13d-674a-dcc4b414e054",
+    "Name": "DeletePitchBlack",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1783393846000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
